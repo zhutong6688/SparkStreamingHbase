@@ -1,0 +1,2 @@
+# SparkStreamingHbase
+SparkStreaming处理过后的数据存入HBase
